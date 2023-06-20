@@ -2,7 +2,7 @@
 docker desktopの使い方がわからなかったので調べたことをまとめた。
 
 - Docker Desktop:ローカル環境で簡単にDockerコンテナの開発環境を構築、導入できるソフト
-
+使い方参考：https://www.youtube.com/watch?v=B5tSZr_QqXw
 
 
 ## RaiseTech学習中のリサーチ
