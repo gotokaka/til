@@ -3,7 +3,10 @@
 Spring Bootの学習について記録します。
 
 
- ### issueとPR
+
+# 取り組んだもの
+
+ ### Udemy「IntelliJ ではじめる Spring Boot：課題管理アプリを作って学ぶWebアプリケーション開発の基礎」
 
 - https://github.com/gotokaka/IssueTrackingApp/issues/1
 - https://github.com/gotokaka/IssueTrackingApp/pull/2
