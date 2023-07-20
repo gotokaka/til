@@ -6,7 +6,7 @@ CI/CDツール「checkstyle」について学習したものを纏めるファ�
 
 ## issue
 
-https://github.com/gotokaka/til/issues/3
+[GitHub Actionsが起動しない](https://github.com/gotokaka/til/issues/3)
 
 
 
